@@ -1,0 +1,47 @@
+.h11{
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(41, 223, 41);
+}
+.h21{
+    border: rgb(41, 223, 41) solid 4px;
+    background-color: rgb(41, 223, 41);
+    border-radius: 1rem;
+    margin-left: 240px;
+    margin-right: 240px;
+    text-align: center;
+    margin-top: 80px;
+}
+.h21:hover{
+    border: rgb(41, 223, 41) solid 4px;
+    background-color: rgb(41, 223, 41);
+    border-radius: 1rem;
+    margin-left: 240px;
+    margin-right: 240px;
+    text-align: center;
+    margin-top: 80px;
+    box-shadow: 0 10px 20px black;
+}
+.h22{
+    border: rgb(41, 223, 41) solid 4px;
+    background-color: rgb(41, 223, 41);
+    border-radius: 1rem;
+    margin-left: 240px;
+    margin-right: 240px;
+    text-align: center;
+    margin-top: 80px;
+}
+.h23{
+    border: rgb(41, 223, 41) solid 4px;
+    background-color: rgb(41, 223, 41);
+    border-radius: 1rem;
+    margin-left: 240px;
+    margin-right: 240px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
